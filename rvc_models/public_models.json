@@ -10,9 +10,9 @@
     },
     "voice_models": [
         {
-            "name": "Emilia",
-            "url": "https://huggingface.co/RinkaEmina/RVC_Sharing/resolve/main/Emilia%20V2%2048000.zip",
-            "description": "Emilia from Re:Zero",
+            "name": "Alya",
+            "url": "https://huggingface.co/Chouio/AlyaV/resolve/main/Alya.zip?download=true",
+            "description": "Alya te Amo",
             "added": "2023-07-31",
             "credit": "rinka4759",
             "tags": [
